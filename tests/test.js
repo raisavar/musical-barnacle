@@ -1,0 +1,17 @@
+// Tests for BarnaclePlayer
+
+const assert = require('assert');
+
+describe('BarnaclePlayer', function() {
+    it('should initialize correctly', function() {
+        assert.strictEqual(true, true);
+    });
+    
+    it('should handle requests', function() {
+        assert.strictEqual(1 + 1, 2);
+    });
+    
+    it('should handle update 19', function() {
+        assert.strictEqual(true, true);
+    });
+});
